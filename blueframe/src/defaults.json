@@ -1,0 +1,12 @@
+{
+  "unit": "px",
+  "gridSize": "8",
+  "sizes": {
+    "xsm": "64px",
+    "sm": "128px",
+    "md": "256px",
+    "lg": "384px",
+    "xlg": "512px",
+    "xxlg": "1024px"
+  }
+}
